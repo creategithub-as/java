@@ -1,0 +1,80 @@
+Interf@ce :
+@bstractClass :
+                      SQL password: Xworkzodc@123
+
+preasentation layer: html,css,java script,bootstrap,react js,angular js.
+application business layer:java ,php,python(jdbc,jpa)connect between application layer and data layer
+DATA layer
+
+POST:CREAT
+PUT:UPDATE
+GET:READ
+DELETE:DELETE
+
+
+
+DDL: DATA DEFINITION LANGUAGE(STATEMENT)
+
+
+1.CREAT
+
+
+/*SYNTEX FOR the database
+create//commend//commend database/keyword database_name;*/
+e DATABASE jun_17;
+
+
+
+show DATABASE;
+
+CREATE database xworkz;
+use: keyword 
+use database_name;
+USE jun_17;
+
+USE xworkz;
+
+/*Stntax for creating table
+CREAT TABLE tabe_name(column  datatype,column datatype)
+
+CREATE TABLE employee(id int,emp_name varchar(20),emp_sal,emp_ioc varchar(10));
+
+data base includes batabase,tables,and column
+
+DESC:describe;
+DESC table_name;
+
+DESC momos;
+use drinks;
+DESC juice;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
