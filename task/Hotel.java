@@ -1,7 +1,7 @@
 class Hotel
 {
     String name="Anjaneya";
-	Owner owner=new Owner();
+	Owner owner=new Owner("ashwini",22,'F');
 	
 	public Hotel(String name){
 		this.name=name;

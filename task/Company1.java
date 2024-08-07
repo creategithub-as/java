@@ -3,7 +3,7 @@ class Company1
    int id;
    String name;
    String location;
-   SoftwareEngineer softwareEngineer=new SoftwareEngineer();
+   SoftwareEngineer softwareEngineer=new SoftwareEngineer("anand",15,"teacher",60000);
    
    public Company1(int id,String name,String location){
 	   this.id=id;
